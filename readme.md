@@ -1,6 +1,6 @@
-# Workshop Fullstack
+# OpenCamp Workshops
 
-A ideia desse projeto é fornecer um material básico e completo (meio que um guia ou uma apostila) para ser utilizado nos workshops.
+A ideia desse projeto é fornecer um material básico e completo (por meio de guias) para ser utilizado como material de auxilio nos workshops.
 
 ## Formatos
 
@@ -8,7 +8,7 @@ Existem vários formatos para apresentar esse workshop, o escopo do conteúdo da
 
 Os formatos sugeridos são:
 
-- 3 horas (180 minutos)
+- 4 horas (240 minutos)
 - 1 dia (8 horas, ou 480 minutos)
 - 2 dias (14 horas, ou 840 minutos)
 
