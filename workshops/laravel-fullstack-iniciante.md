@@ -31,7 +31,7 @@ Tópicos:
 - Persistindo dados de um formulário HTML (10m)
 - Introdução a frameworks Javascript: Vue (30m)
 - Introdução a um framework fullstack: Laravel (50m)
-- (FALTA PREENCHER 20 MINUTOS)
+- (20 MINUTOS SOBRANDO)
 
 
 ### 1 dia (8 horas)
