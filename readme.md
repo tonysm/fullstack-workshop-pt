@@ -14,4 +14,4 @@ Os formatos sugeridos são:
 
 ### Cursos disponíveis
 
-- [Fullstack com Laravel: iniciante](workshops/fullstack-laravel-iniciante.md)
+- [Fullstack com Laravel: iniciante](workshops/laravel-fullstack-iniciante.md)
