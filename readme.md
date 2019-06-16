@@ -1,6 +1,6 @@
 # OpenCamp Workshops
 
-A ideia desse projeto é fornecer um material básico e completo (por meio de guias) para ser utilizado como material de auxilio nos workshops.
+A ideai desse projeto é fornecer material básico e completo (como apostilas digitais) que possam ser utilizados como material de apoio nos workshops.
 
 ## Formatos
 
